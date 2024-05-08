@@ -1,0 +1,38 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;  
+    background-color: hsl(212, 45%, 89%); 
+    font-family: Outfit,arial,helvetica,sans-serif;     
+    text-align: center;
+}
+
+.qrcard{
+    width: 320px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.qrimg{
+    width: 100%;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.qrcontent{
+    margin: 15px;
+}
+
+.paragraph{
+    margin: 10px;
+    color: hsl(220, 15%, 55%);
+}
+
+.heder{
+    color: Dark blue: hsl(218, 44%, 22%);
+}
